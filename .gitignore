@@ -1,0 +1,8 @@
+# Bower components
+bower_components/
+
+# NPM components
+node_modules/
+
+# Build artifacts
+docs/_site/
